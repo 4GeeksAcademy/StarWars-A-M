@@ -13,7 +13,6 @@ const FavoritesDropwdown = () => {
   const {handleDelFavorite} = actions;
   
 
-
     return (
     <Dropdown>
       <Dropdown.Toggle variant="secondary" id="dropdown-basic">
@@ -28,6 +27,4 @@ const FavoritesDropwdown = () => {
     </Dropdown>
     )
 }
-
-
 export default FavoritesDropwdown;

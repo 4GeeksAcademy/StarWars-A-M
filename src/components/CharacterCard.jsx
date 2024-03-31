@@ -36,6 +36,4 @@ const CharacterCard = ({name,id}) => {
     </Card>
     )
 }
-
-
 export default CharacterCard;

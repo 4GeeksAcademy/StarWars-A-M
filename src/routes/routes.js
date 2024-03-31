@@ -10,9 +10,6 @@ import DetailedVehicle from '../views/DetailedVehicle.jsx';
 
 
 
-
-
-
 const innerRoutes = [
     {
         path:"/",

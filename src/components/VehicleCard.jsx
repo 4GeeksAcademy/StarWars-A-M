@@ -7,7 +7,6 @@ import Card from 'react-bootstrap/Card';
 import Spinner from 'react-bootstrap/Spinner';
 
 
-
 const VehicleCard = ({name, id, url}) => {
     
     const imgSrc = `https://starwars-visualguide.com/assets/img/vehicles/${id}.jpg `
@@ -38,7 +37,4 @@ const VehicleCard = ({name, id, url}) => {
     )
 }
 
-
 export default VehicleCard;
-
-

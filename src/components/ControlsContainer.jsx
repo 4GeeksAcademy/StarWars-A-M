@@ -7,9 +7,6 @@ import arrowLeft from "react-useanimations/lib/arrowLeftCircle";
 
 const ControlsContainer = ({list, handleChange}) => {
 
-    
-
-
     return(
         <div>
             { list 

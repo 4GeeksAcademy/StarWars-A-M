@@ -36,9 +36,4 @@ const PlanetCard = ({name ,id }) => {
 
     )
 }
-
-
-
-
-
 export default PlanetCard;
